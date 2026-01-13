@@ -52,8 +52,11 @@ Paytm-Clone/
 Open the project folder.
 
 Run the project:
+
 Double-click index.html, or
+
 Open index.html in any browser.
+
 
 Learning Outcomes
 Practiced complex page layout using sections and containers
@@ -62,8 +65,10 @@ Improved CSS skills: flexbox, spacing, border-radius, shadows
 
 Improved confidence in cloning real-world websites using pure HTML/CSS
 
+
 Disclaimer
 This project is created only for educational purposes. Paytm branding and assets belong to Paytm. This clone is not intended for commercial use.
+
 
 Author
 Grishma C.D
