@@ -52,9 +52,7 @@ Paytm-Clone/
 Open the project folder.
 
 Run the project:
-
 Double-click index.html, or
-
 Open index.html in any browser.
 
 Learning Outcomes
