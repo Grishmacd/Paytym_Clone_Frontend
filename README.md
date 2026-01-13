@@ -54,16 +54,16 @@ Paytm-Clone/
 3.Run it:
 
   Double-click index.html, or
-  
   Open index.html in any browser
 
   
 
  ##Learning Outcomes
-Practiced complex page layout using sections and containers
-Improved CSS skills: flexbox, spacing, border-radius, shadows
-Learned positioning with absolute/relative for UI placements
-Built confidence in cloning real-world websites using pure HTML/CSS
+ 
+-Practiced complex page layout using sections and containers
+-Improved CSS skills: flexbox, spacing, border-radius, shadows
+-Learned positioning with absolute/relative for UI placements
+-Built confidence in cloning real-world websites using pure HTML/CSS
 
 
 Disclaimer
