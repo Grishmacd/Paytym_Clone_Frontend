@@ -44,35 +44,32 @@ Paytm-Clone/
 └── README.md # Project documentation
 
 
-## How to Run the Project
+## How to Run Locally
 
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/your-username/paytm-clone.git
-Open the project folder.
+### Option 1: Open Directly
+1. Download or clone this repository
+2. Open `index.html` in your browser
 
-Run the project:
-
-Double-click index.html, or
-
-Open index.html in any browser.
+### Option 2: VS Code Live Server (Recommended)
+1. Open the project folder in VS Code
+2. Install the **Live Server** extension
+3. Right-click `index.html` → **Open with Live Server**
 
 
-Learning Outcomes
-Practiced complex page layout using sections and containers
-
-Improved CSS skills: flexbox, spacing, border-radius, shadows
-
-Improved confidence in cloning real-world websites using pure HTML/CSS
+##  Learning Outcomes
+- Practiced complex page layout using sections and containers
+- Improved CSS skills: Flexbox, spacing, border-radius, shadows
+- Improved confidence in cloning real-world websites using pure HTML/CSS
 
 
-Disclaimer
-This project is created only for educational purposes. Paytm branding and assets belong to Paytm. This clone is not intended for commercial use.
+## Disclaimer
+This project is created only for educational purposes.  
+All branding and assets belong to their respective owners.  
+This project is **not intended for commercial use**.
 
 
-Author
-Grishma C.D
-
+## 👩‍💻 Author
+**Grishma C.D**  
 Frontend Developer | MERN Stack Learner | ML Enthusiast
 
 
