@@ -48,35 +48,25 @@ Paytm-Clone/
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/your-username/paytm-clone.git
-
    
 2.Open the folder
 3.Run it:
-
   Double-click index.html, or
-  
   Open index.html in any browser
 
   
 
  ##Learning Outcomes
- 
-Learning Outcomes
-
 Practiced complex page layout using sections and containers
-
 Improved CSS skills: flexbox, spacing, border-radius, shadows
-
 Learned positioning with absolute/relative for UI placements
-
 Built confidence in cloning real-world websites using pure HTML/CSS
 
-Disclaimer
 
+Disclaimer
 This project is created only for educational purposes. Paytm branding and assets belong to Paytm. This clone is not intended for commercial use.
 
 Author
-
 Grishma C.D
 
 Frontend Developer | MERN Stack Learner | ML Enthusiast
