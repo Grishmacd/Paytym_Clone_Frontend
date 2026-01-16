@@ -1,4 +1,4 @@
-# Paytym_Clone_Frontend
+# Paytm_Clone_Frontend
 
 A Paytm homepage UI clone built using HTML and CSS. This project recreates the layout and visual structure of Paytm’s landing page sections like the header navigation, UPI banner, recharge cards, travel booking UI, feature sections, and footer. It is a frontend-only clone created for learning layout building, positioning, and UI styling using pure CSS.
 
@@ -68,8 +68,7 @@ All branding and assets belong to their respective owners.
 This project is **not intended for commercial use**.
 
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 **Grishma C.D**  
-Frontend Developer | MERN Stack Learner | ML Enthusiast
 
 
